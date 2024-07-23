@@ -21,7 +21,7 @@ To democratize accessibility across all departments, we currently do not provide
 - [Project Manager](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/project-manager)
 - [Quality Assurance Tester](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/quality-assurance-tester)
 - [Sales Executive](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/sales-executive)
-- [ocial Media Editor/Publisher](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/social-media-editor-publisher)
+- [Social Media Editor/Publisher](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/social-media-editor-publisher)
 - [Sourcing/Procurement Officer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/sourcing-procurement-officer)
 - [UX/Interaction Designer](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/ux-interaction-designer)
 - [UX Researcher](https://teachaccess.github.io/accessibility-skills-hiring-toolkit/roles/ux-researcher)
